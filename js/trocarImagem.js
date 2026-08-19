@@ -4,7 +4,7 @@ function mostrarBrasil() {
     const nome = document.getElementById("nome-pais");
     const informacao = document.getElementById("informacao");
 
-    imagem.src = "../img/brasil.png";
+    imagem.src = "img/brasil.png";
 
     imagem.alt = "Bandeira do Brasil";
 
@@ -21,7 +21,7 @@ function mostrarEspanha() {
     const nome = document.getElementById("nome-pais");
     const informacao = document.getElementById("informacao");
 
-    imagem.src = "../img/espanha.jpg";
+    imagem.src = "img/espanha.jpg";
 
     imagem.alt = "Bandeira da Espanha";
 
