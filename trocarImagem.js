@@ -21,7 +21,7 @@ function mostrarEspanha() {
     const nome = document.getElementById("nome-pais");
     const informacao = document.getElementById("informacao");
 
-    imagem.src = "img/espanha.jpg";
+    imagem.src = "img/espanha.png";
 
     imagem.alt = "Bandeira da Espanha";
 
